@@ -28,4 +28,4 @@
     <a href="https://gitlab.com/wesleyLuciano" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
   </div>
   
-  ![Snake animation](https://github.com/wesleylmarcelino/wesleylmarcelino/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/wesleylmarcelino/wesleylmarcelino/blob/output/github-contribution-grid-snake.svg)
